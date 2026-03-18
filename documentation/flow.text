@@ -1,0 +1,15 @@
+Transcript
+   ↓
+Chunking (segmenter)
+   ↓
+Classifier
+   ↓
+Task Extractor ──> Validator ──> Accepted Tasks
+   ↓
+Decision Extractor
+   ↓
+Summary Generator
+   ↓
+Formatter
+   ↓
+GitHub Issue Creator
